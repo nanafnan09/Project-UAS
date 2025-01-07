@@ -8,6 +8,12 @@ Kelas: TI24.A5
 
 MATAKULIAH: BAHASA PEMROGRAMAN
 
+Link Youtube (DOKUMENTASI)
+
+```md
+https://youtu.be/D0vgmUd5J-g?feature=shared
+```
+
 Struktur Program
 
 Program ini terdiri dari beberapa file yang terpisah berdasarkan fungsinya:
@@ -251,7 +257,8 @@ Tambah Buku: Meminta pengguna untuk memasukkan data buku dan menambahkannya ke d
 Menggunakan try-except untuk menangani validasi input. Jika ada field yang kosong, akan
 
 **HASIL DARI PROGRAM**
-![foto]()
+
+![foto](https://github.com/nanafnan09/Project-UAS/blob/b149ed494a2f90fb197bb5e27e9b1845c2e923cd/output%20UAS.png)
 
 
 
