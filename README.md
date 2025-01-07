@@ -250,6 +250,9 @@ Opsi yang tersedia:
 Tambah Buku: Meminta pengguna untuk memasukkan data buku dan menambahkannya ke dalam daftar.
 Menggunakan try-except untuk menangani validasi input. Jika ada field yang kosong, akan
 
+**HASIL DARI PROGRAM**
+![foto]()
+
 
 
 
