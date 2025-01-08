@@ -11,8 +11,8 @@ MATAKULIAH: BAHASA PEMROGRAMAN
 Link Youtube (DOKUMENTASI)
 
 ```md
-https://youtu.be/D0vgmUd5J-g?feature=shared
-```
+https://youtu.be/8k1Ouo3sXRE?feature=shared
+``
 
 Struktur Program
 
